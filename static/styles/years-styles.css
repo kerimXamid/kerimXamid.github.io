@@ -1,0 +1,10 @@
+.col-lg-6>img{
+    width: 599px;
+    height: 300px;
+}
+div.card.mb-3.my-4{
+    background: linear-gradient(270deg, rgb(252, 227, 198)0%, #d3f9ff 23%, #f8b497 100%);
+}
+.card-title{
+    font-weight: bolder;
+}
